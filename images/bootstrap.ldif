@@ -1,0 +1,5 @@
+dn: ou=users,dc=ulearn,dc=com
+changetype: add
+objectclass: top
+objectclass: organizationalUnit
+ou: users
